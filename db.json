@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut mattis ex. Curabitur sagittis nisl velit, et imperdiet tellus tempor non. Nunc scelerisque efficitur sem. Vestibulum pellentesque pharetra justo id vulputate. Aliquam in sem maximus velit euismod consectetur at quis est. Sed nec venenatis ligula, at cursus nibh. Sed rutrum convallis lectus, a hendrerit purus dapibus vel."
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum",
+      "body": "Aliquam sed enim sed erat aliquet laoreet id non nisl. Nunc pharetra, justo ut euismod sollicitudin, urna eros mattis magna, egestas mollis tortor tellus sed magna. Suspendisse sit amet rhoncus nunc, ac pretium lorem. Curabitur id feugiat leo. In pulvinar lobortis magna, et tincidunt dolor tempor ut. Nam blandit ligula in ex malesuada mattis. Sed consectetur hendrerit tempor. Vivamus semper leo ac sagittis lacinia. Duis et pharetra nisl, non bibendum sapien. Vivamus eu mi sit amet lorem ultricies mattis vitae et tortor."
+    }
+  ],
+  "profile": {
+    "name": "KSakowski"
+  }
+}
